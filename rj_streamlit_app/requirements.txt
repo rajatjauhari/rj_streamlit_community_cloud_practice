@@ -14,7 +14,8 @@ pillow
 pandas==3.0.2
 ipython
 nltk==3.9.4
-numpy==1.26.4
+# numpy==1.26.4
+numpy
 gensim==4.4.0
 streamlit
 requests
