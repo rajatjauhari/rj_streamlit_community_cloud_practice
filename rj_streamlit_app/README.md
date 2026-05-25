@@ -1,0 +1,1 @@
+This Streamlit app is my first attempt at practicing a deployment of streamlit app on Streamlit Community Cloud.
